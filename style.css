@@ -53,8 +53,9 @@ header {
     align-items: center;
 }
 .sub-title {
-    color: #c98200;
-    border-left: solid;
+    color: #f3cf6a;
+    border-left: solid 2px;
+    padding-left: 10px;
 }
 h2 {
     border-bottom: solid;
