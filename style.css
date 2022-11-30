@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600;800&display=swap');
+body {
+ margin: 0;
+}
+.logo img {
+    height: 55px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h5, a {
+    margin: 0;
+    color: #409191;
+}
+.title {
+    background-color: rgb(255 247 106 / 11%);
+    height: 40px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+   justify-content: space-around;
+   border-top: solid;
+   border-top-color: #ffedb3;
+}
+h3 {
+    font-weight: 900;
+    font-size: 1.6em;
+    margin-top: 30px;
+}
+p {
+    font-size: 0.8em;
+    display: block;
+
+}
+.first {
+text-align: center;    
+}
+header div img {
+    width: 510px;
+    border-radius: 9.4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.caption {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    color: grey;
+    
+}
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sub-title {
+    color: #c98200;
+    border-left: solid;
+}
+h2 {
+    border-bottom: solid;
+    border-color: aliceblue;
+    width: 465.969px;
+    padding-bottom: 20px;
+}
+li {
+    margin-top: 14.2px;
+    font-size: 0.8em;
+}
+footer {
+    display: Flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 0.8em;
+    margin-right: auto;
+    margin-left: auto;
+    width: 484.2px;  
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul, ol {
+    width: 465.969px;
+    margin-top: 0;
+}
+
+h4 {
+    width: 465.969px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
